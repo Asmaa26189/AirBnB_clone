@@ -5,10 +5,10 @@ footer {
     bottom: 0;
     left: 0;
     border-top: 1px solid #CCCCCC;
-    display: flex;
     align-items: center;
     justify-content: center;
     margin: auto auto 0 auto;
+    position: fixed;
 }
 
 footer p {
